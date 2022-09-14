@@ -9,4 +9,6 @@
  - Single Page Application
  - Entity Framework
  
- <img src="/docs/logo.png" alt="My cool logo"/>
+ <img src="/Fotos/Inicio.png" alt="Foto inicio"/>
+ <img src="/Fotos/Login.png" alt="Foto login"/>
+  <img src="/Fotos/Tienda.png" alt="Foto tienda"/>
