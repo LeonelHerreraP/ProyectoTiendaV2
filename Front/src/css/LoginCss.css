@@ -1,0 +1,16 @@
+.contenedorLogin {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divInicio {
+    width: 70%;
+}
+
+@media screen and (min-width: 480px) {
+    .divInicio {
+        width: 40%;
+    }
+}

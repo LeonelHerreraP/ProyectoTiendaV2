@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #EEEEEE;
+}
+
+.barra {
+  background-color: #00ADB5;
+}
+
+hr {
+  margin: 0 0 30px;
+}
+
+h2 {
+
+}
+
+.letrasBarra {
+  color: white;
+}
+
+.nav-link:hover {
+  color: #222831;
+}
+
+.navbar-brand:hover {
+  color: #F2DF3A;
+}
+
+.botonDuro {
+  margin: 30px 0 30px 0;
+}
+
+.badgeCount {
+  background-color: #393E46;
+  color: rgb(255, 255, 255);
+}
+
+.fondoAzul {
+  background-color: #00ADB5;
+  color: white;
+}
+
+.fondoAzul:hover {
+  background-color: #00d2dd;
+  color: white;
+  
+}
+
+.contenedor{
+  margin: 0 20px;
+}
+
+.azul{
+  color: #00ADB5;
+}
+
+.btnLogin{
+ border: solid 2px #393E46;
+}
+.btnLogin:hover{
+  border: solid 2px #222831;
+  color: #222831;
+}
+
+@media screen and (max-width: 480px) {
+  .contenedor{
+    margin: 0 10px;
+  }
+}

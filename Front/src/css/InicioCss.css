@@ -1,0 +1,169 @@
+.imgCaru {
+    min-height: 500px;
+    max-height: 500px;
+    width: 100vh;
+    cursor: pointer;
+}
+
+.rellenoFoto {
+    height: 400px;
+    max-height: 400px;
+    width: 100%;
+    background: url('../../public/img/rellenoFoto.webp');
+    background-position: center;
+    background-size: cover;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.rellenoFoto2 {
+    height: 400px;
+    max-height: 400px;
+    width: 100%;
+    background: url('../../public/img/electrodomes.webp');
+    background-position: center;
+    background-size: cover;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.rellenoFoto3 {
+    height: 400px;
+    max-height: 400px;
+    width: 100%;
+    background: url('../../public/img/rellenoFoto.webp');
+    background-position: center;
+    background-size: cover;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.divSugeridos {
+    margin: 40px 0px 0px 0px;
+}
+
+.destacado {
+    height: 275px;
+    max-height: 275px;
+    width: 275px;
+    background: url('../../public/img/aireCard.jpg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cafetera {
+    background: url('../../public/img/cafeteraCard.webp');
+    background-position: center;
+    background-size: cover;
+}
+
+.lavadora {
+    background: url('../../public/img/lavadoraCard.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.nevera {
+    background: url('../../public/img/neveraCard.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.tv {
+    background: url('../../public/img/televisorCard.webp');
+    background-position: center;
+    background-size: cover;
+}
+
+.estufa {
+    background: url('../../public/img/estufaCard.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.cateDestacadas {
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+
+}
+
+
+@media screen and (max-width: 480px) {
+    .rellenoFoto {
+        height: 150px;
+        max-height: 200px;
+    }
+
+    .rellenoFoto2 {
+        height: 200px;
+        max-height: 200px;
+    }
+
+    .rellenoFoto3 {
+        height: 200px;
+        max-height: 200px;
+    }
+
+    .carousel {
+        height: 270px;
+        max-height: 270px;
+    }
+
+    .imgCaru {
+        min-height: 250px;
+        max-height: 250px;
+    }
+
+    .divDestacados {
+        margin: 0;
+    }
+
+    .cateDestacadas {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .destacado {
+        height: 370px;
+        width: 370px;
+    }
+}
+
+@media screen and (min-width: 480px) {
+    .Relleno {
+        display: flex;
+        gap: 10px;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    .rellenoFoto {
+        max-width: 1130px;
+        max-height: 300px;
+        margin: auto;
+    }
+
+    .rellenoFoto2 {
+        max-width: 560px;
+        max-height: 300px;
+    }
+
+    .rellenoFoto3 {
+        max-width: 560px;
+        max-height: 300px;
+    }
+}
+
+@media screen and (min-width: 1150px) {
+    .destacado {
+        height: 360px;
+        max-height: 360px;
+        width: 360px;
+
+    }
+}

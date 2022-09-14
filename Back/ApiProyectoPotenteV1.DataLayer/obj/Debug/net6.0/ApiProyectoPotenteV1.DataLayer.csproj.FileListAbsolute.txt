@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\bin\Debug\net6.0\ApiProyectoPotenteV1.DataLayer.deps.json
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\bin\Debug\net6.0\ApiProyectoPotenteV1.DataLayer.runtimeconfig.json
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\bin\Debug\net6.0\ApiProyectoPotenteV1.DataLayer.dll
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\bin\Debug\net6.0\ApiProyectoPotenteV1.DataLayer.pdb
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\obj\Debug\net6.0\ApiProyectoPotenteV1.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\obj\Debug\net6.0\ApiProyectoPotenteV1.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\obj\Debug\net6.0\ApiProyectoPotenteV1.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\obj\Debug\net6.0\ApiProyectoPotenteV1.DataLayer.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\obj\Debug\net6.0\ApiProyectoPotenteV1.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\obj\Debug\net6.0\ApiProyectoPotenteV1.DataLayer.dll
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\obj\Debug\net6.0\refint\ApiProyectoPotenteV1.DataLayer.dll
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\obj\Debug\net6.0\ApiProyectoPotenteV1.DataLayer.pdb
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\obj\Debug\net6.0\ApiProyectoPotenteV1.DataLayer.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\ApiProyectoPotenteV1.DataLayer\obj\Debug\net6.0\ref\ApiProyectoPotenteV1.DataLayer.dll

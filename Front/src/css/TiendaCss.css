@@ -1,0 +1,25 @@
+.productCard{
+    list-style: none;
+}
+
+.productoGrid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 18rem);
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0;
+}
+
+.txtAzul{
+    color: #00ADB5;
+    display: inline;
+}
+.card-body{
+    min-height: 250px;
+}
+
+.card:hover{
+    border: 2px solid #00ADB5;
+}
